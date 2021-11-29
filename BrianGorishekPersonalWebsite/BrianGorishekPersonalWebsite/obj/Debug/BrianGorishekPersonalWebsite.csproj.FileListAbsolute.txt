@@ -74,6 +74,5 @@ C:\Users\bgori\source\repos\bgorishek\bgorishek.github.io\BrianGorishekPersonalW
 C:\Users\bgori\source\repos\bgorishek\bgorishek.github.io\BrianGorishekPersonalWebsite\BrianGorishekPersonalWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\bgori\source\repos\bgorishek\bgorishek.github.io\BrianGorishekPersonalWebsite\BrianGorishekPersonalWebsite\obj\Debug\BrianGorishekPersonalWebsite.csproj.AssemblyReference.cache
 C:\Users\bgori\source\repos\bgorishek\bgorishek.github.io\BrianGorishekPersonalWebsite\BrianGorishekPersonalWebsite\obj\Debug\BrianGorishekPersonalWebsite.csproj.CoreCompileInputs.cache
-C:\Users\bgori\source\repos\bgorishek\bgorishek.github.io\BrianGorishekPersonalWebsite\BrianGorishekPersonalWebsite\obj\Debug\BrianGorishekPersonalWebsite.csproj.CopyComplete
 C:\Users\bgori\source\repos\bgorishek\bgorishek.github.io\BrianGorishekPersonalWebsite\BrianGorishekPersonalWebsite\obj\Debug\BrianGorishekPersonalWebsite.dll
 C:\Users\bgori\source\repos\bgorishek\bgorishek.github.io\BrianGorishekPersonalWebsite\BrianGorishekPersonalWebsite\obj\Debug\BrianGorishekPersonalWebsite.pdb

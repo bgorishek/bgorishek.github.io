@@ -26,5 +26,17 @@ namespace BrianGorishekPersonalWebsite.Controllers
 
             return View();
         }
+        public ActionResult Projects()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+        public ActionResult SkillSets()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
